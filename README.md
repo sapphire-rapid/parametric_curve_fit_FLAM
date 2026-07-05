@@ -72,7 +72,7 @@ This loss is minimized with:
 
 The optimizer converges cleanly to $\theta=30°$, $M=0.03$, $X=55$ — clean round numbers with near-zero residual, which is itself a strong signal these are the exact intended values rather than an approximate local optimum. Plotting the fitted curve against the raw data confirms a visually perfect overlay:
 
-![Fit verification](assets/fit_check.png)
+![Fit verification](assests/fit_check.png)
 
 ## Files
 
